@@ -8,7 +8,7 @@ Repository URL: https://github.com/REPLACE_WITH_GITHUB_USERNAME/itcs382-lab
 | --- | --- |
 | JDK | 23.0.1 |
 | Maven | 3.10.0 |
-| IDE | Visual Studio Code 1.142.0 |
+| IDE | 2.53.0.window.3 |
 | SonarQube for IDE | 6.1.1 |
 | AI tool and exact model | Cursor Grok 4.6 |
 
